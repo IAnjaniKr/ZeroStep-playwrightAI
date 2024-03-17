@@ -32,7 +32,7 @@ test('Test 1: My test', async ({ page }) => {
   });
 
 
-test('Test 2: zerostep example', async ({ page }) => {
+test('Test 2: zerostep example test', async ({ page }) => {
   await page.goto('https://zerostep.com/')
 
   // An object with page and test must be passed into every call
